@@ -1,5 +1,5 @@
-======================================================
-DEXSCREENER AUTO SNIPE SCRIPTS
+
+DEXSCREENER - AUTO SNIPE SCRIPTS
 ======================================================
 
 Summary
