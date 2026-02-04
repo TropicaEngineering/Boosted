@@ -22,7 +22,7 @@ So:
         ↓
   Bot auto-buys (if enabled)
 
-No swap script needed — just push from VS Code to chat.
+No swap script needed — just push from server to chat.
 
 ------------------------------------------------------
 
